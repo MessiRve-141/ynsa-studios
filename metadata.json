@@ -1,0 +1,6 @@
+{
+  "name": "YNSA STUDIOS — Beyond Imagination",
+  "description": "Portal oficial de YNSA STUDIOS: descubre Vigilia — Las noches de Martín, Ynsanity Racing y After the Fall, tres videojuegos web desarrollados con imaginación, curiosidad y pasión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
